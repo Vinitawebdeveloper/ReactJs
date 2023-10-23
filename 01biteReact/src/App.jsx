@@ -1,10 +1,14 @@
-
+import Chai from "./chai"
 
 function App() {
   
 
   return (
-  <h1>React With Vite | vinita</h1>
+    <>
+    <h2>heading</h2>
+   <Chai/>
+   <p>test para</p>
+   </>
   )
 }
 
